@@ -1,0 +1,2 @@
+# greetings
+golang practice application.
